@@ -7,4 +7,5 @@ In this repository, we will be solving data structures problems
                         Sort array ascending wise.
     * Bubble sort: In bubble sorting, we push maximum number to last with adjacent swap. Place maximum first in 
                         array. Opposite to selection sort.
-    * Insertion sort: Take an element from an array and put it in its correct order. 
+    * Insertion sort: Take an element from an array and put it in its correct order.
+    * Merge sort: Divide array till single element and sort array while merging.
